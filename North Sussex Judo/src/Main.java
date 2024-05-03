@@ -17,7 +17,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         UserInterface.welcomeMessage();
-//looping registration process for 6 athletes
+        //looping registration process for 6 athletes
         for (int i = 0; i < 6; i++){
             UserInterface.displayResult();
         }
